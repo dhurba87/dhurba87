@@ -14,8 +14,3 @@ I'm Dhurba Baral, a passionate software developer with a focus on backend develo
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Stats
-![Image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhurba87&theme=default)![Image](https://github-readme-streak-stats.herokuapp.com/?user=dhurba87&theme=default)
-
-![Image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhurba87&theme=default) 
